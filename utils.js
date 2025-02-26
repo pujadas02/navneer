@@ -1,6 +1,6 @@
 // utils.js (submodule-repo)
 function greet(name) {
-    return `good afternoon, ${name}!`;
+    return `good fternoon, ${name}!`;
 }
 
 module.exports = {
